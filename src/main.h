@@ -23,7 +23,7 @@ class CValidationState;
 static const int64_t DARKSEND_COLLATERAL = (0.01*COIN);
 static const int64_t DARKSEND_POOL_MAX = (4999.99*COIN);
 
-static const int64_t STATIC_POS_REWARD = 80 * COIN; //Constant reward of 14 BLT per COIN i.e. 8%
+static const int64_t STATIC_POS_REWARD = 0.25 * COIN; //Constant reward of 14 BLT per COIN i.e. 8%
 static const int64_t TARGET_SPACING = 90; //90 sec
 
 
